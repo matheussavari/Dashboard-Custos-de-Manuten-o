@@ -10,3 +10,8 @@ Utilizando um script simples foi possível automatizar a coleta de dados das req
 
 <img width="360" height="720" alt="Requisições SAP" src="https://github.com/user-attachments/assets/21ee0e37-8b28-4937-b695-02f19462a2b8" />
 
+Dashboard Power BI
+O indicador final nos permitiu gerar insights importantes para visualizarmos de fomra clara quais máquinas valiam a pena o investimento de serem trocadas ou passar por Retrofit, além de permitir visualizar os principais gastos de cada máquina e os principais fornecedores contratados.
+
+<img width="980" height="480" alt="Explicação" src="https://github.com/user-attachments/assets/14065537-4b1a-4540-b220-769626a90979" />
+

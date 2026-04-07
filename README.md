@@ -1,0 +1,1 @@
+Dashboard criado em Power BI com o objetivo de controlar máquinas com custo de manutenção muito alto em relação ao custo de renovação das mesmas, estipulado em 5%, projeto feito utilizando Python, SQL, e Power BI

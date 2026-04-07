@@ -13,4 +13,5 @@ Utilizando um script simples foi possível automatizar a coleta de dados das req
 Dashboard Power BI
 O indicador final nos permitiu gerar insights importantes para visualizarmos de fomra clara quais máquinas valiam a pena o investimento de serem trocadas ou passar por Retrofit, além de permitir visualizar os principais gastos de cada máquina e os principais fornecedores contratados.
 
-<img width="900" height="800" alt="Descrição" src="https://github.com/user-attachments/assets/27391881-6ed9-49d1-8be9-6fbdb1091961" />
+<img width="1440" height="1120" alt="Descrição" src="https://github.com/user-attachments/assets/98e96f1d-62f1-4d17-a7d8-14efbfcb53a9" />
+

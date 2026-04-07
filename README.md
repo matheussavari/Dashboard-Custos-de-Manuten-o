@@ -8,5 +8,5 @@ Esta parte foi necessária para trazer o valor presente das máquinas, para que 
 Requisições de Compra SAP
 Utilizando um script simples foi possível automatizar a coleta de dados das requisições de compra realizadas pela manutenção vindas da operação ME5A.  Após salvar os dados em uma planilha excel, o arquivo é carregado 1 vez no mês(ainda não automatizei esta etapa) para o SQL SERVER, organizei as tabelas para formar o que é conhecido como Star Schema para armazenar os dados de custos de manutenção dos equipamentos conforme a imagem ao lado.
 
-<img width="720" height="360" alt="Requisições SAP" src="https://github.com/user-attachments/assets/21ee0e37-8b28-4937-b695-02f19462a2b8" />
+<img width="360" height="720" alt="Requisições SAP" src="https://github.com/user-attachments/assets/21ee0e37-8b28-4937-b695-02f19462a2b8" />
 

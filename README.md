@@ -17,10 +17,14 @@ Dashboard Power BI
 O indicador final nos permitiu gerar insights importantes para visualizarmos de forma clara quais máquinas valiam a pena o investimento de serem trocadas ou passar por Retrofit, além de permitir visualizar os principais gastos de cada máquina e os principais fornecedores contratados.
 
 O principal insight foi associar o custo de manutenção ao tempo de uso do equipamento, comprovando a hipótese que o custo de manutenção da máquina aumenta gradualmente conforme os anos, com base nisso, os ativos da fábrica foram distribuidos em 4 quadrantes para tomada de ação.
-Ano de uso < 10 anos e custo de manutenção percentual <5%  (estes ativos são os ideais)
-Ano de uso <10 anos e custo de manutenção >5% (são ativos novos e não deveriam ter o custo de manutenção alto, ações como retrofit ou análises de troca de fornecedores podem ser tomadas)
-Ano de uso >10 anos e custo de manutenção <5% (analisar os custos de manutenção com gráfico de tendência para justificar ou não a troca por um equipamento mais novo)
-Ano de uso >10 e custo de manutenção >5% (A troca por um equipamento mais novo é geralmente a melhor solução, evitando paradas de máquina que atrasam a produção e pagando a máquina nova com recursos economizados na manutenção)
+  Ano de uso < 10 anos e custo de manutenção percentual <5%  (estes ativos são os ideais)
+  
+  Ano de uso <10 anos e custo de manutenção >5% (são ativos novos e não deveriam ter o custo de manutenção alto, ações como retrofit ou análises de troca de fornecedores podem ser tomadas)
+  
+  Ano de uso >10 anos e custo de manutenção <5% (analisar os custos de manutenção com gráfico de tendência para justificar ou não a troca por um equipamento mais novo)
+  
+  Ano de uso >10 e custo de manutenção >5% (A troca por um equipamento mais novo é geralmente a melhor solução, evitando paradas de máquina que atrasam a produção e pagando a máquina nova com recursos economizados na manutenção)
+  
 
 
 <img width="1440" height="1120" alt="Descrição" src="https://github.com/user-attachments/assets/61251bad-a834-4c6c-9a81-bef74f96b0e3" />
